@@ -66,7 +66,9 @@ This project follows a professional Git workflow:
 
 The website is automatically deployed to GitHub Pages using GitHub Actions when changes are pushed to the `main` branch.
 
-**Live Site**: [Your GitHub Pages URL will appear here]
+**Live Site**: [![Deploy to GitHub Pages](https://github.com/Keane1659/Assignment2Template/actions/workflows/deploy.yml/badge.svg)](https://github.com/Keane1659/Assignment2Template/actions/workflows/deploy.yml)
+
+
 
 ## Development Workflow
 
