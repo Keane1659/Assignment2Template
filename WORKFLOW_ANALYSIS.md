@@ -4,6 +4,7 @@
 ## When it is either push to braches: [main] or when pull_request from branches: [main].
 
 ## Question 2. What are the four main steps this workflow performs? (List each step name)
+
 ## Step 1. Checkout code
 ## Step 2. Validate HTML files
 ## Step 3. Check for broken links
@@ -15,7 +16,7 @@ What does the "Checkout code" step do and why is it necessary?
 
 What is the purpose of the environment configuration?
 
-##  The enviorment allows GitHub to track the deployment and display the history, alongside applying any rule sets.
+##  The enviorment allows GitHub to track the deployment and display the history, alongside applying any rule sets without having to put the code straight through that may cause an error.
 
 How does this automated deployment improve reliability compared to manual deployment?
 
